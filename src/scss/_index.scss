@@ -22,21 +22,23 @@ code {
 
 .bgstyle {
   /* background: linear-gradient(136deg, #1ad7c0, #8E44AD, #ff9b11, #1F3A93, #ddd8c6, #000000, #000000);  */
-  /*background: linear-gradient(
-    136deg,
-    #4484ce,
-    #1ad7c0,
-    #ff9b11,
-    #9b59b6,
-    #ff7f7f,
-    #ecf0f1
-  );*/
+  // background: linear-gradient(
+  //   136deg,
+  //   #4484ce,
+  //   #1ad7c0,
+  //   #ff9b11,
+  //   #9b59b6,
+  //   #ff7f7f,
+  //   #ecf0f1
+  // );
+  opacity: 0.5;
+  background-image: url('https://cdn.britannica.com/10/152310-050-5A09D74A/Sand-dunes-Sahara-Morocco-Merzouga.jpg') ;
 
-  background-size: 1200% 1200%;
-  -webkit-animation: BackgroundAnimation 70s ease infinite;
-  -moz-animation: BackgroundAnimation 70s ease infinite;
-  -o-animation: BackgroundAnimation 70s ease infinite;
-  animation: BackgroundAnimation 70s ease infinite;
+  background-size: 120000% 1200%;
+  -webkit-animation: BackgroundAnimation 70s cubic-bezier(0.1, -0.6, 0.2, 0) infinite;
+  -moz-animation: BackgroundAnimation 700s infinite;
+  -o-animation: BackgroundAnimation 70s cubic-bezier(0.1, -0.6, 0.2, 0) infinite;
+  animation: BackgroundAnimation 10s ease-in infinite;
   height: 100%;
 }
 

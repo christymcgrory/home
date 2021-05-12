@@ -53,9 +53,8 @@ const about = {
   heading: "About Me",
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
-  message:
-    "My name is Christy McGrory",
-  resume: "Coming Soon",
+  message: "My name is Christy McGrory",
+  resume: "/resume2.html",
 };
 
 // PROJECTS SECTION
