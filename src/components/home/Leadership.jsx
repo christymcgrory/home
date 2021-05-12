@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from "react-bootstrap/Carousel";
 
@@ -28,9 +29,7 @@ const Leadership = ({ heading, message, img, imageSize }) => {
                     />
                     <Carousel.Caption>
                       <h3>{value.label}</h3>
-                      <p>
-                        {value.paragraph}
-                      </p>
+                      <p>{value.paragraph}</p>
                     </Carousel.Caption>
                   </Carousel.Item>
                 );
