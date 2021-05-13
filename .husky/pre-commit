@@ -1,4 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-npm run build:resume && cd $(git rev-parse --show-toplevel) && git add resume/*
+npm run build:resume && cd $(git rev-parse --show-toplevel) && git add .
