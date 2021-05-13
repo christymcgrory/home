@@ -1,4 +1,11 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-${git diff --name-only --cached | grep 'resume.json' && npm run build:resume && cd $(git rev-parse --show-toplevel) && git add .} | echo "Resume not changed"
+if [git diff --name-only --cached | grep 'resume.json' -eq true];
+    then
+        npm run build:resume
+        cd $(git rev-parse --show-toplevel)
+        git add .
+else
+    echo "Resume not changed"
+fi
