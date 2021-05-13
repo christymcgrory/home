@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Christy McGrory",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "hello@christymcgrory.co.uk",
+    "website": "http://christymcgrory.co.uk",
+    "summary": "Self taught, agile oriented software engineer. I like learning new things and talking to interesting people.",
+    "location": {
+      "city": "Northants",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Christy McGrory",
+        "url": "https://www.linkedin.com/in/christy-mcgrory-7641b168/"
+      },
+      {
+        "network": "Instagram",
+        "username": "squarecouture",
+        "url": "https://Instagram.com/squarecouture"
+      },
+      {
+        "network": "Github",
+        "username": "christymcgrory",
+        "url": "https://github.com/christymcgrory"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "RS Components Ltd",
+      "position": "Associate Software Engineer",
+      "website": "http://rs-online.com",
+      "startDate": "2019-09-07",
+      "summary": "Working across various teams focusing on different areas of the business. Implementing APIs using Node.js with Typescript/Java, as well as AWS Lambda and API Gateway. This includes provisioning infrastructure using IaC languages such as Terraform/Nomad. Daily platform experience includes Gitlab Pipelines for deployment automation. I have also worked with other technologies including Bash/C, DynamoDB, Vault, Wordpress (PHP). Currently designing a Frontend in React/Typescript with the Next.js platform.",
+      "highlights": [
+        "○ Becoming the go-to for all Wordpress deployment activity in the business",
+        "○ Getting appraisal from senior business leaders",
+        "○ Finishing a year long project with a understaffed team (during a pandemic)"
+      ]
+    },
+    {
+      "company": "Audacious Jooce Ltd",
+      "position": "Web Developer/IT Support",
+      "website": "http://audaciousvapes.co.uk",
+      "startDate": "2017-08",
+      "endDate": "2019-08",
+      "summary": "Communicating with the owner directly on a daily/weekly basis to establish the needs of the business. Worked across various platforms upgrading the technology of the business as it grew from a startup.",
+      "highlights": [
+        "○ Being able to work directly with a business owner was a humbling experience",
+        "○ Able to learn business skills alongside technology learning",
+        "○ Successfully scaling up the website to a more stable and workable system"
+      ]
+    },
+    {
+      "company": "Audacious Jooce Ltd",
+      "position": "Customer Service Assistant",
+      "website": "http://rs-online.com",
+      "startDate": "2016-08",
+      "endDate": "2017-08",
+      "summary": "Working as the sole customer service employee at a busy retail store 6 days a week.",
+      "highlights": [
+        "○ Speaking to customers regularly and building rapport improved confidence rapidly",
+        "○ Insight into how a business is run",
+        "○ Being able to learn sales techniques on the job"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Plymouth University Music Society",
+      "position": "President",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Created and organised regular events and meetings for the Plymouth University Music Society (MuSoc).",
+      "highlights": [
+        "○ Recruited members well into the double digits after only a couple of months",
+        "○ Met fellow music lovers and appreciated the art of networking"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Plymouth University",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2012",
+      "endDate": "2014"
+    },
+    {
+      "institution": "Brooke Weston",
+      "area": "A Levels",
+      "studyType": "Higher Education",
+      "startDate": "2008",
+      "endDate": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Software Engineering",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Lambda",
+        "DynamoDB",
+        "SQS",
+        "Serverless",
+        "Node.js",
+        "Typescript"
+      ]
+    },
+    {
+      "name": "Frontend Software Engineering",
+      "level": "Intermediate",
+      "keywords": [
+        "React",
+        "Node.js",
+        "Next.js",
+        "Styled Components",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Emerging",
+      "keywords": [
+        "Terraform",
+        "Nomad"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music Production",
+      "keywords": [
+        "Guitar",
+        "Piano",
+        "Digital Music"
+      ]
+    },
+    {
+      "name": "Movies",
+      "keywords": [
+        "Foreign Films",
+        "Thrillers"
+      ]
+    }
+  ]
+}
