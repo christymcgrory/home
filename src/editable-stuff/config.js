@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "I’m a highly focused and driven individual constantly improving my skills through self-learning and interper- sonal relationships. I can work effectively both as part of a team, utilizing the strengths of the people around me, and alone, forming the self-teaching into a coherent work flow; no task is too cumbersome to overcome with the right attitude.",
+    "I’m a highly focused and driven individual constantly improving my skills through self-learning and interpersonal relationships. I can work effectively both as part of a team, utilizing the strengths of the people around me, and alone, forming the self-teaching into a coherent work flow; no task is too cumbersome to overcome with the right attitude.",
   resume: "/resume.html",
 };
 
